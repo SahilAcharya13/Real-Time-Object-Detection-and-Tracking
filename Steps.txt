@@ -1,0 +1,11 @@
+Download the Datasets:
+1. 
+https://www.kaggle.com/datasets/shuvoalok/dawn-dataset
+
+2. https://www.kaggle.com/datasets/sarangdilipjodh/indian-traffic-signs-prediction85-classes
+
+
+
+Change the dataset URL according to the system
+
+Run this .ipynd files
